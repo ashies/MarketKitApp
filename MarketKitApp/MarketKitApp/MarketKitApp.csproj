@@ -33,10 +33,49 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.DynamicProxy2">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\Castle.DynamicProxy2.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\Common.Logging.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework">
       <HintPath>..\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll</HintPath>
     </Reference>
+    <Reference Include="FluentNHibernate">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="HibernatingRhinos.Profiler.Appender.v4.0">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\HibernatingRhinos.Profiler.Appender.v4.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Web.Mvc">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\Microsoft.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="MvcContrib">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\MvcContrib.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.Castle">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\NHibernate.ByteCode.Castle.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Caches.SysCache">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\NHibernate.Caches.SysCache.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Linq">
+      <HintPath>C:\Documents and Settings\ashies\My Documents\Downloads\HTML5TourApp\HTML5TourApp\bin\NHibernate.Linq.dll</HintPath>
+    </Reference>
     <Reference Include="System.Data.Entity" />
     <Reference Include="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Web.WebPages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
